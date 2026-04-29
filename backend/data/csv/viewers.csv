@@ -1,0 +1,901 @@
+viewer_id,city,segment,signup_date
+1,Mumbai,Casual,2025-03-08
+2,Mumbai,Gen Z,2024-04-05
+3,Delhi,Millennials,2025-06-01
+4,Chennai,Gen Z,2024-07-22
+5,Pune,Casual,2025-03-05
+6,Delhi,Premium,2024-10-11
+7,Kolkata,Gen Z,2024-06-12
+8,Pune,Premium,2024-12-14
+9,Bengaluru,Millennials,2024-08-08
+10,Kolkata,Families,2024-04-14
+11,Mumbai,Premium,2024-04-09
+12,Bengaluru,Families,2024-09-27
+13,Kolkata,Gen Z,2025-04-15
+14,Chennai,Gen Z,2025-01-22
+15,Mumbai,Casual,2024-10-27
+16,Kolkata,Casual,2025-01-05
+17,Chennai,Millennials,2024-03-12
+18,Mumbai,Millennials,2024-10-23
+19,Mumbai,Millennials,2024-04-13
+20,Hyderabad,Families,2025-04-09
+21,Pune,Families,2024-06-15
+22,Bengaluru,Families,2024-08-02
+23,Pune,Families,2024-03-14
+24,Chennai,Millennials,2025-06-30
+25,Pune,Millennials,2024-06-16
+26,Hyderabad,Premium,2024-10-03
+27,Pune,Casual,2024-08-12
+28,Pune,Families,2024-02-27
+29,Delhi,Gen Z,2024-11-19
+30,Hyderabad,Families,2024-03-08
+31,Delhi,Casual,2024-11-18
+32,Delhi,Premium,2025-02-09
+33,Pune,Premium,2024-05-26
+34,Bengaluru,Millennials,2024-09-09
+35,Pune,Casual,2025-07-05
+36,Bengaluru,Casual,2025-03-14
+37,Chennai,Premium,2025-01-05
+38,Delhi,Millennials,2025-06-05
+39,Hyderabad,Gen Z,2024-02-18
+40,Kolkata,Gen Z,2024-06-05
+41,Pune,Millennials,2025-03-08
+42,Chennai,Gen Z,2025-01-29
+43,Hyderabad,Casual,2025-04-24
+44,Chennai,Families,2024-01-12
+45,Pune,Gen Z,2025-07-03
+46,Kolkata,Families,2024-12-14
+47,Mumbai,Families,2025-03-21
+48,Delhi,Premium,2024-01-04
+49,Pune,Families,2025-05-27
+50,Kolkata,Millennials,2025-06-03
+51,Mumbai,Families,2025-06-03
+52,Chennai,Millennials,2024-06-05
+53,Bengaluru,Millennials,2025-07-06
+54,Kolkata,Casual,2024-01-01
+55,Chennai,Families,2025-05-15
+56,Mumbai,Gen Z,2025-01-06
+57,Kolkata,Families,2024-09-02
+58,Mumbai,Millennials,2024-03-21
+59,Mumbai,Premium,2024-03-11
+60,Kolkata,Casual,2024-05-08
+61,Delhi,Premium,2024-06-18
+62,Bengaluru,Casual,2025-03-09
+63,Delhi,Casual,2024-07-24
+64,Pune,Families,2025-02-12
+65,Pune,Families,2025-03-24
+66,Chennai,Premium,2024-05-03
+67,Delhi,Millennials,2024-03-06
+68,Bengaluru,Gen Z,2024-08-23
+69,Chennai,Millennials,2024-01-08
+70,Mumbai,Gen Z,2024-08-22
+71,Mumbai,Gen Z,2024-12-04
+72,Mumbai,Casual,2024-08-31
+73,Bengaluru,Premium,2024-08-07
+74,Chennai,Millennials,2025-04-29
+75,Delhi,Premium,2025-02-20
+76,Delhi,Gen Z,2024-04-09
+77,Pune,Premium,2024-12-28
+78,Hyderabad,Premium,2025-04-23
+79,Kolkata,Gen Z,2024-04-10
+80,Mumbai,Premium,2024-12-13
+81,Kolkata,Gen Z,2024-09-11
+82,Delhi,Millennials,2025-07-03
+83,Hyderabad,Millennials,2025-03-08
+84,Delhi,Families,2025-04-18
+85,Delhi,Gen Z,2025-03-29
+86,Kolkata,Casual,2024-04-10
+87,Mumbai,Casual,2024-01-16
+88,Mumbai,Millennials,2024-06-19
+89,Hyderabad,Premium,2025-05-07
+90,Delhi,Premium,2024-03-01
+91,Delhi,Premium,2024-01-03
+92,Hyderabad,Families,2025-04-10
+93,Bengaluru,Premium,2025-05-13
+94,Delhi,Millennials,2024-10-30
+95,Delhi,Gen Z,2025-07-09
+96,Mumbai,Families,2024-02-28
+97,Mumbai,Casual,2025-05-03
+98,Chennai,Casual,2024-06-10
+99,Mumbai,Casual,2024-03-23
+100,Kolkata,Millennials,2024-03-11
+101,Chennai,Gen Z,2024-08-28
+102,Hyderabad,Gen Z,2024-09-09
+103,Chennai,Casual,2024-02-10
+104,Chennai,Gen Z,2025-03-05
+105,Pune,Casual,2025-06-19
+106,Bengaluru,Families,2024-07-28
+107,Pune,Families,2024-09-01
+108,Bengaluru,Premium,2024-05-14
+109,Pune,Families,2025-04-13
+110,Bengaluru,Gen Z,2024-01-10
+111,Hyderabad,Casual,2024-04-12
+112,Mumbai,Casual,2024-08-06
+113,Chennai,Families,2024-05-15
+114,Bengaluru,Gen Z,2024-09-07
+115,Bengaluru,Families,2024-06-10
+116,Hyderabad,Casual,2024-11-05
+117,Chennai,Casual,2024-01-09
+118,Pune,Casual,2024-11-02
+119,Pune,Gen Z,2024-05-17
+120,Bengaluru,Gen Z,2024-04-19
+121,Pune,Casual,2024-06-08
+122,Bengaluru,Families,2024-08-03
+123,Pune,Families,2024-07-27
+124,Pune,Families,2025-06-01
+125,Hyderabad,Families,2024-02-22
+126,Mumbai,Premium,2024-10-10
+127,Mumbai,Gen Z,2024-12-07
+128,Kolkata,Millennials,2024-09-25
+129,Delhi,Premium,2025-03-13
+130,Chennai,Gen Z,2024-04-24
+131,Mumbai,Millennials,2025-07-12
+132,Mumbai,Families,2024-05-31
+133,Hyderabad,Millennials,2024-02-12
+134,Bengaluru,Families,2024-02-10
+135,Bengaluru,Millennials,2024-09-12
+136,Pune,Gen Z,2024-12-28
+137,Kolkata,Casual,2025-02-20
+138,Chennai,Millennials,2024-08-30
+139,Kolkata,Millennials,2024-06-30
+140,Hyderabad,Gen Z,2024-07-02
+141,Pune,Families,2025-02-25
+142,Kolkata,Millennials,2024-09-30
+143,Delhi,Gen Z,2025-01-26
+144,Kolkata,Gen Z,2025-04-26
+145,Delhi,Millennials,2025-04-16
+146,Bengaluru,Families,2024-08-21
+147,Delhi,Gen Z,2024-07-16
+148,Hyderabad,Families,2024-10-12
+149,Kolkata,Gen Z,2024-10-12
+150,Bengaluru,Casual,2025-02-13
+151,Pune,Casual,2024-12-05
+152,Mumbai,Gen Z,2024-09-24
+153,Delhi,Casual,2024-09-28
+154,Mumbai,Gen Z,2025-03-20
+155,Bengaluru,Families,2025-03-22
+156,Chennai,Casual,2024-04-28
+157,Hyderabad,Casual,2024-07-13
+158,Bengaluru,Gen Z,2025-03-22
+159,Mumbai,Casual,2025-07-05
+160,Pune,Millennials,2025-01-07
+161,Hyderabad,Gen Z,2024-12-04
+162,Chennai,Families,2024-05-07
+163,Pune,Families,2025-06-03
+164,Bengaluru,Premium,2024-11-30
+165,Hyderabad,Families,2024-05-10
+166,Delhi,Premium,2025-01-23
+167,Pune,Millennials,2024-11-04
+168,Hyderabad,Casual,2024-01-01
+169,Bengaluru,Families,2024-08-03
+170,Hyderabad,Casual,2024-11-25
+171,Hyderabad,Premium,2025-03-28
+172,Pune,Millennials,2025-06-07
+173,Hyderabad,Millennials,2024-03-27
+174,Bengaluru,Casual,2024-12-09
+175,Mumbai,Millennials,2024-11-13
+176,Delhi,Millennials,2024-05-30
+177,Mumbai,Gen Z,2024-09-07
+178,Hyderabad,Casual,2024-03-15
+179,Hyderabad,Premium,2024-07-18
+180,Pune,Premium,2025-05-21
+181,Hyderabad,Millennials,2024-05-31
+182,Pune,Gen Z,2024-04-19
+183,Kolkata,Premium,2024-08-12
+184,Delhi,Casual,2025-04-20
+185,Mumbai,Casual,2024-09-12
+186,Kolkata,Gen Z,2025-04-12
+187,Delhi,Premium,2025-06-27
+188,Chennai,Casual,2024-11-20
+189,Kolkata,Premium,2025-05-31
+190,Hyderabad,Casual,2025-04-01
+191,Delhi,Premium,2025-04-05
+192,Bengaluru,Millennials,2024-10-10
+193,Kolkata,Casual,2025-05-11
+194,Pune,Millennials,2024-10-08
+195,Hyderabad,Gen Z,2024-10-19
+196,Delhi,Families,2024-12-09
+197,Bengaluru,Casual,2024-03-23
+198,Delhi,Millennials,2024-08-24
+199,Hyderabad,Millennials,2024-08-07
+200,Mumbai,Premium,2025-02-21
+201,Bengaluru,Casual,2025-04-22
+202,Hyderabad,Gen Z,2024-07-30
+203,Kolkata,Premium,2025-02-02
+204,Kolkata,Casual,2024-01-21
+205,Kolkata,Casual,2025-01-24
+206,Hyderabad,Gen Z,2024-12-26
+207,Bengaluru,Premium,2025-03-05
+208,Chennai,Casual,2024-08-13
+209,Hyderabad,Millennials,2024-10-06
+210,Hyderabad,Premium,2024-01-30
+211,Hyderabad,Families,2025-02-18
+212,Pune,Millennials,2025-04-23
+213,Delhi,Casual,2025-06-30
+214,Mumbai,Premium,2024-01-28
+215,Mumbai,Premium,2024-05-18
+216,Kolkata,Premium,2024-07-05
+217,Mumbai,Families,2025-01-23
+218,Bengaluru,Millennials,2025-04-10
+219,Bengaluru,Families,2025-01-23
+220,Bengaluru,Premium,2024-09-15
+221,Kolkata,Gen Z,2025-04-26
+222,Mumbai,Casual,2024-02-23
+223,Bengaluru,Millennials,2024-03-11
+224,Kolkata,Gen Z,2024-02-01
+225,Delhi,Millennials,2024-01-21
+226,Chennai,Millennials,2024-09-01
+227,Delhi,Premium,2024-04-27
+228,Chennai,Millennials,2025-04-21
+229,Pune,Families,2025-01-12
+230,Delhi,Casual,2024-04-27
+231,Kolkata,Millennials,2024-11-14
+232,Mumbai,Casual,2024-01-27
+233,Bengaluru,Casual,2025-01-19
+234,Hyderabad,Millennials,2024-03-18
+235,Chennai,Millennials,2024-04-14
+236,Pune,Families,2024-05-03
+237,Kolkata,Casual,2024-02-12
+238,Bengaluru,Casual,2025-03-14
+239,Pune,Families,2024-03-11
+240,Chennai,Families,2024-01-13
+241,Kolkata,Premium,2025-05-16
+242,Mumbai,Premium,2025-01-05
+243,Pune,Premium,2024-06-05
+244,Hyderabad,Millennials,2025-06-18
+245,Pune,Families,2025-07-05
+246,Kolkata,Premium,2025-04-21
+247,Hyderabad,Casual,2024-10-01
+248,Bengaluru,Millennials,2024-03-29
+249,Bengaluru,Premium,2024-09-06
+250,Kolkata,Premium,2025-01-23
+251,Bengaluru,Gen Z,2025-05-21
+252,Kolkata,Families,2024-07-05
+253,Hyderabad,Millennials,2024-12-29
+254,Kolkata,Families,2024-12-14
+255,Bengaluru,Casual,2024-10-09
+256,Chennai,Gen Z,2025-06-13
+257,Delhi,Gen Z,2024-09-04
+258,Pune,Premium,2025-05-15
+259,Chennai,Millennials,2025-05-02
+260,Pune,Premium,2025-04-03
+261,Kolkata,Gen Z,2024-04-05
+262,Bengaluru,Millennials,2025-02-18
+263,Pune,Millennials,2024-11-09
+264,Pune,Casual,2025-01-12
+265,Hyderabad,Casual,2025-06-27
+266,Bengaluru,Premium,2024-12-04
+267,Bengaluru,Premium,2024-10-04
+268,Bengaluru,Families,2024-08-24
+269,Mumbai,Millennials,2024-11-19
+270,Mumbai,Casual,2024-07-08
+271,Delhi,Millennials,2025-05-10
+272,Bengaluru,Casual,2025-06-21
+273,Chennai,Families,2024-04-12
+274,Kolkata,Millennials,2024-10-30
+275,Delhi,Families,2024-07-02
+276,Bengaluru,Gen Z,2025-06-30
+277,Delhi,Families,2024-02-16
+278,Mumbai,Casual,2024-10-26
+279,Pune,Millennials,2025-05-17
+280,Mumbai,Gen Z,2024-10-18
+281,Hyderabad,Premium,2025-03-27
+282,Bengaluru,Millennials,2024-02-22
+283,Bengaluru,Premium,2024-04-26
+284,Kolkata,Gen Z,2025-02-14
+285,Hyderabad,Gen Z,2024-02-24
+286,Delhi,Millennials,2024-11-07
+287,Mumbai,Millennials,2024-05-01
+288,Chennai,Premium,2024-08-19
+289,Kolkata,Casual,2025-01-24
+290,Hyderabad,Premium,2024-10-31
+291,Kolkata,Casual,2025-03-15
+292,Bengaluru,Casual,2024-03-02
+293,Chennai,Gen Z,2024-07-31
+294,Pune,Millennials,2024-09-27
+295,Pune,Gen Z,2024-06-09
+296,Delhi,Millennials,2024-03-17
+297,Delhi,Gen Z,2025-02-22
+298,Hyderabad,Casual,2025-04-26
+299,Bengaluru,Gen Z,2024-08-25
+300,Bengaluru,Families,2025-04-09
+301,Mumbai,Millennials,2024-09-27
+302,Kolkata,Casual,2024-07-21
+303,Hyderabad,Gen Z,2025-07-11
+304,Delhi,Millennials,2024-09-29
+305,Kolkata,Millennials,2024-03-14
+306,Mumbai,Millennials,2024-11-10
+307,Chennai,Casual,2024-10-22
+308,Hyderabad,Gen Z,2025-04-24
+309,Pune,Families,2025-02-16
+310,Bengaluru,Casual,2025-07-06
+311,Hyderabad,Premium,2024-03-23
+312,Chennai,Gen Z,2025-03-18
+313,Pune,Families,2024-09-13
+314,Mumbai,Gen Z,2024-08-22
+315,Pune,Casual,2024-01-22
+316,Kolkata,Families,2024-02-11
+317,Kolkata,Millennials,2025-04-26
+318,Chennai,Premium,2024-10-11
+319,Delhi,Casual,2025-03-22
+320,Pune,Premium,2024-04-03
+321,Hyderabad,Families,2025-02-22
+322,Bengaluru,Families,2024-04-17
+323,Kolkata,Millennials,2024-12-03
+324,Hyderabad,Premium,2024-10-22
+325,Pune,Premium,2024-02-07
+326,Hyderabad,Gen Z,2024-11-18
+327,Bengaluru,Families,2024-04-28
+328,Kolkata,Premium,2025-06-10
+329,Kolkata,Gen Z,2025-07-09
+330,Hyderabad,Premium,2024-02-25
+331,Delhi,Casual,2025-01-05
+332,Chennai,Premium,2025-03-28
+333,Kolkata,Gen Z,2024-07-27
+334,Bengaluru,Casual,2024-05-14
+335,Bengaluru,Premium,2025-05-11
+336,Mumbai,Gen Z,2024-09-02
+337,Pune,Millennials,2024-11-14
+338,Chennai,Gen Z,2025-02-21
+339,Mumbai,Millennials,2024-04-26
+340,Hyderabad,Gen Z,2024-06-06
+341,Hyderabad,Families,2025-06-05
+342,Pune,Families,2025-03-01
+343,Kolkata,Premium,2025-04-28
+344,Delhi,Premium,2024-05-28
+345,Hyderabad,Millennials,2025-06-04
+346,Pune,Millennials,2024-03-12
+347,Bengaluru,Premium,2024-12-14
+348,Kolkata,Casual,2024-09-30
+349,Kolkata,Gen Z,2024-10-16
+350,Pune,Families,2025-05-16
+351,Kolkata,Millennials,2025-04-02
+352,Chennai,Premium,2024-12-19
+353,Bengaluru,Casual,2025-07-10
+354,Hyderabad,Premium,2024-11-25
+355,Kolkata,Millennials,2024-09-01
+356,Chennai,Premium,2024-08-27
+357,Kolkata,Premium,2024-02-14
+358,Bengaluru,Premium,2025-01-25
+359,Hyderabad,Millennials,2025-05-22
+360,Mumbai,Millennials,2025-05-29
+361,Chennai,Families,2024-04-12
+362,Kolkata,Premium,2024-04-12
+363,Chennai,Premium,2024-01-16
+364,Pune,Millennials,2025-02-23
+365,Kolkata,Millennials,2024-03-17
+366,Hyderabad,Families,2024-12-12
+367,Chennai,Premium,2024-03-23
+368,Kolkata,Families,2025-06-30
+369,Hyderabad,Families,2025-05-14
+370,Kolkata,Casual,2024-02-06
+371,Chennai,Gen Z,2024-08-28
+372,Pune,Families,2024-08-20
+373,Pune,Gen Z,2025-03-20
+374,Mumbai,Gen Z,2025-03-30
+375,Delhi,Families,2024-01-30
+376,Mumbai,Families,2024-02-27
+377,Bengaluru,Families,2025-01-18
+378,Hyderabad,Millennials,2024-09-07
+379,Chennai,Premium,2024-07-03
+380,Delhi,Millennials,2024-03-21
+381,Chennai,Premium,2024-09-03
+382,Hyderabad,Casual,2024-05-26
+383,Delhi,Premium,2024-09-17
+384,Hyderabad,Families,2024-01-10
+385,Kolkata,Premium,2024-10-21
+386,Pune,Casual,2024-06-10
+387,Mumbai,Premium,2024-12-19
+388,Chennai,Families,2025-03-10
+389,Pune,Families,2025-04-12
+390,Kolkata,Families,2024-07-22
+391,Hyderabad,Premium,2024-04-19
+392,Delhi,Premium,2025-01-02
+393,Chennai,Families,2024-10-29
+394,Mumbai,Premium,2024-10-08
+395,Mumbai,Casual,2024-02-20
+396,Chennai,Premium,2024-10-20
+397,Kolkata,Millennials,2024-12-26
+398,Delhi,Millennials,2024-09-13
+399,Pune,Millennials,2024-04-09
+400,Pune,Gen Z,2024-11-12
+401,Kolkata,Premium,2024-02-04
+402,Chennai,Families,2024-05-14
+403,Mumbai,Families,2024-11-30
+404,Pune,Premium,2024-06-28
+405,Delhi,Millennials,2025-07-06
+406,Bengaluru,Casual,2025-05-28
+407,Bengaluru,Millennials,2024-09-20
+408,Kolkata,Premium,2024-10-29
+409,Pune,Families,2024-04-27
+410,Hyderabad,Gen Z,2024-05-24
+411,Kolkata,Millennials,2025-02-10
+412,Kolkata,Casual,2025-01-09
+413,Mumbai,Premium,2024-01-15
+414,Bengaluru,Casual,2024-05-06
+415,Hyderabad,Families,2024-09-25
+416,Chennai,Premium,2025-01-15
+417,Mumbai,Millennials,2025-04-27
+418,Mumbai,Casual,2024-12-01
+419,Chennai,Millennials,2024-03-05
+420,Pune,Premium,2024-11-05
+421,Pune,Premium,2024-04-29
+422,Delhi,Gen Z,2024-02-08
+423,Bengaluru,Premium,2024-04-28
+424,Mumbai,Millennials,2025-07-04
+425,Delhi,Premium,2025-04-09
+426,Bengaluru,Casual,2025-03-05
+427,Chennai,Millennials,2025-02-28
+428,Pune,Gen Z,2025-05-16
+429,Chennai,Premium,2024-10-13
+430,Mumbai,Families,2024-08-10
+431,Hyderabad,Premium,2024-08-29
+432,Kolkata,Families,2024-04-11
+433,Pune,Families,2025-07-11
+434,Pune,Families,2024-03-03
+435,Hyderabad,Families,2024-07-13
+436,Mumbai,Premium,2024-04-03
+437,Pune,Millennials,2024-01-22
+438,Mumbai,Families,2024-09-06
+439,Delhi,Casual,2024-07-29
+440,Mumbai,Casual,2024-07-31
+441,Chennai,Millennials,2024-08-26
+442,Bengaluru,Millennials,2024-01-03
+443,Bengaluru,Millennials,2024-05-13
+444,Chennai,Families,2024-06-27
+445,Mumbai,Gen Z,2024-05-14
+446,Mumbai,Families,2024-08-31
+447,Chennai,Families,2024-01-17
+448,Delhi,Families,2024-02-23
+449,Delhi,Premium,2025-06-22
+450,Mumbai,Gen Z,2025-05-02
+451,Hyderabad,Families,2025-06-09
+452,Chennai,Gen Z,2025-04-07
+453,Chennai,Millennials,2024-02-14
+454,Pune,Casual,2024-11-04
+455,Hyderabad,Gen Z,2024-03-03
+456,Hyderabad,Premium,2025-03-12
+457,Pune,Gen Z,2025-05-17
+458,Pune,Premium,2024-03-16
+459,Mumbai,Families,2024-05-31
+460,Mumbai,Millennials,2024-10-08
+461,Chennai,Casual,2024-11-28
+462,Hyderabad,Casual,2025-06-27
+463,Bengaluru,Premium,2025-06-01
+464,Chennai,Premium,2024-04-11
+465,Kolkata,Gen Z,2024-08-08
+466,Hyderabad,Premium,2024-08-21
+467,Hyderabad,Families,2025-04-09
+468,Hyderabad,Premium,2024-04-07
+469,Bengaluru,Premium,2024-11-16
+470,Pune,Families,2025-01-18
+471,Delhi,Premium,2024-03-09
+472,Mumbai,Gen Z,2024-04-05
+473,Hyderabad,Gen Z,2025-01-16
+474,Kolkata,Millennials,2024-03-02
+475,Chennai,Casual,2024-12-03
+476,Pune,Gen Z,2025-02-24
+477,Bengaluru,Premium,2024-02-22
+478,Bengaluru,Casual,2024-11-15
+479,Bengaluru,Gen Z,2025-06-03
+480,Delhi,Millennials,2025-05-08
+481,Delhi,Gen Z,2024-12-24
+482,Kolkata,Casual,2025-01-11
+483,Mumbai,Families,2024-08-19
+484,Kolkata,Premium,2024-01-27
+485,Chennai,Families,2024-01-30
+486,Delhi,Families,2024-11-12
+487,Bengaluru,Families,2024-01-07
+488,Delhi,Millennials,2025-02-14
+489,Mumbai,Millennials,2024-02-01
+490,Mumbai,Casual,2024-08-08
+491,Hyderabad,Premium,2025-04-09
+492,Bengaluru,Millennials,2025-01-13
+493,Bengaluru,Families,2024-03-27
+494,Mumbai,Millennials,2024-06-10
+495,Kolkata,Casual,2024-02-20
+496,Pune,Gen Z,2024-10-05
+497,Hyderabad,Premium,2025-05-12
+498,Chennai,Premium,2025-02-28
+499,Bengaluru,Millennials,2025-06-08
+500,Mumbai,Families,2025-03-16
+501,Mumbai,Families,2025-05-13
+502,Chennai,Families,2024-02-16
+503,Delhi,Premium,2024-02-26
+504,Mumbai,Millennials,2024-11-04
+505,Delhi,Millennials,2024-09-18
+506,Bengaluru,Families,2024-05-02
+507,Mumbai,Premium,2025-03-16
+508,Delhi,Millennials,2025-01-24
+509,Chennai,Millennials,2025-05-27
+510,Chennai,Families,2024-03-14
+511,Hyderabad,Gen Z,2025-03-22
+512,Mumbai,Premium,2024-03-20
+513,Kolkata,Families,2025-03-15
+514,Chennai,Premium,2025-03-03
+515,Bengaluru,Gen Z,2025-02-18
+516,Mumbai,Families,2024-06-24
+517,Kolkata,Casual,2025-04-16
+518,Kolkata,Families,2024-03-31
+519,Hyderabad,Gen Z,2024-09-06
+520,Hyderabad,Casual,2025-02-14
+521,Chennai,Gen Z,2025-02-09
+522,Kolkata,Families,2024-12-13
+523,Delhi,Families,2024-06-21
+524,Mumbai,Casual,2024-04-26
+525,Chennai,Casual,2024-07-17
+526,Kolkata,Families,2024-12-25
+527,Pune,Millennials,2024-08-29
+528,Mumbai,Millennials,2024-09-19
+529,Delhi,Millennials,2024-06-05
+530,Kolkata,Gen Z,2024-06-30
+531,Kolkata,Premium,2025-04-20
+532,Kolkata,Casual,2025-04-04
+533,Pune,Casual,2024-11-26
+534,Kolkata,Families,2024-06-03
+535,Hyderabad,Gen Z,2025-04-25
+536,Hyderabad,Families,2024-10-08
+537,Chennai,Gen Z,2024-12-26
+538,Chennai,Gen Z,2024-11-13
+539,Hyderabad,Premium,2024-02-08
+540,Mumbai,Families,2024-10-20
+541,Mumbai,Gen Z,2025-06-03
+542,Hyderabad,Premium,2024-02-12
+543,Hyderabad,Casual,2024-07-11
+544,Bengaluru,Casual,2025-05-02
+545,Chennai,Millennials,2024-03-04
+546,Hyderabad,Gen Z,2024-12-17
+547,Pune,Gen Z,2025-05-31
+548,Pune,Millennials,2024-02-10
+549,Delhi,Premium,2025-03-25
+550,Chennai,Casual,2024-06-11
+551,Bengaluru,Families,2024-10-16
+552,Hyderabad,Premium,2024-12-12
+553,Pune,Casual,2024-02-23
+554,Kolkata,Families,2024-03-08
+555,Bengaluru,Gen Z,2025-01-30
+556,Bengaluru,Families,2024-06-02
+557,Bengaluru,Gen Z,2024-05-24
+558,Bengaluru,Families,2025-02-05
+559,Delhi,Casual,2024-03-27
+560,Bengaluru,Casual,2025-01-20
+561,Pune,Families,2024-05-10
+562,Pune,Casual,2024-04-05
+563,Pune,Premium,2025-06-04
+564,Bengaluru,Gen Z,2025-01-06
+565,Bengaluru,Millennials,2024-08-07
+566,Bengaluru,Premium,2024-07-15
+567,Delhi,Millennials,2024-06-07
+568,Mumbai,Families,2024-04-13
+569,Chennai,Casual,2025-06-23
+570,Mumbai,Families,2024-05-14
+571,Chennai,Premium,2024-06-06
+572,Delhi,Millennials,2024-06-18
+573,Pune,Premium,2024-02-14
+574,Hyderabad,Families,2024-08-31
+575,Hyderabad,Casual,2024-10-18
+576,Kolkata,Premium,2024-08-27
+577,Chennai,Millennials,2024-11-12
+578,Kolkata,Premium,2024-07-17
+579,Bengaluru,Casual,2025-03-27
+580,Hyderabad,Families,2025-01-26
+581,Chennai,Casual,2025-03-04
+582,Delhi,Millennials,2024-05-21
+583,Kolkata,Families,2024-02-23
+584,Pune,Premium,2025-01-15
+585,Chennai,Gen Z,2025-06-12
+586,Kolkata,Gen Z,2024-10-18
+587,Mumbai,Millennials,2024-10-06
+588,Hyderabad,Casual,2024-05-30
+589,Kolkata,Premium,2024-04-03
+590,Delhi,Premium,2024-12-23
+591,Mumbai,Premium,2024-02-24
+592,Hyderabad,Casual,2025-01-17
+593,Delhi,Premium,2024-03-24
+594,Bengaluru,Millennials,2024-01-29
+595,Bengaluru,Gen Z,2024-12-09
+596,Kolkata,Millennials,2024-05-20
+597,Mumbai,Families,2025-04-28
+598,Pune,Millennials,2025-04-25
+599,Hyderabad,Casual,2024-01-06
+600,Mumbai,Gen Z,2024-09-19
+601,Delhi,Millennials,2025-06-24
+602,Hyderabad,Gen Z,2024-10-22
+603,Delhi,Families,2024-05-04
+604,Mumbai,Millennials,2025-03-05
+605,Pune,Casual,2025-04-13
+606,Mumbai,Gen Z,2025-05-26
+607,Chennai,Casual,2024-01-17
+608,Pune,Casual,2024-09-04
+609,Pune,Millennials,2024-10-25
+610,Hyderabad,Gen Z,2024-12-27
+611,Delhi,Casual,2025-03-02
+612,Delhi,Gen Z,2025-06-20
+613,Bengaluru,Gen Z,2025-06-22
+614,Chennai,Casual,2025-06-03
+615,Chennai,Gen Z,2025-02-03
+616,Kolkata,Premium,2024-02-14
+617,Pune,Premium,2025-01-17
+618,Bengaluru,Gen Z,2024-12-31
+619,Kolkata,Gen Z,2024-12-19
+620,Delhi,Gen Z,2024-12-06
+621,Delhi,Gen Z,2024-12-26
+622,Chennai,Families,2024-06-28
+623,Kolkata,Premium,2025-05-05
+624,Pune,Millennials,2024-05-18
+625,Mumbai,Premium,2024-02-07
+626,Bengaluru,Millennials,2024-02-14
+627,Kolkata,Millennials,2024-02-12
+628,Bengaluru,Families,2025-06-11
+629,Hyderabad,Casual,2025-04-29
+630,Bengaluru,Gen Z,2024-07-14
+631,Bengaluru,Families,2024-02-18
+632,Kolkata,Families,2024-10-06
+633,Mumbai,Families,2025-03-23
+634,Hyderabad,Premium,2025-01-30
+635,Bengaluru,Millennials,2025-05-23
+636,Pune,Premium,2025-01-11
+637,Kolkata,Casual,2024-09-30
+638,Kolkata,Gen Z,2025-03-10
+639,Mumbai,Premium,2024-07-03
+640,Chennai,Families,2024-11-24
+641,Mumbai,Gen Z,2024-12-01
+642,Pune,Families,2024-11-09
+643,Hyderabad,Casual,2025-03-12
+644,Delhi,Premium,2024-12-25
+645,Hyderabad,Gen Z,2024-12-27
+646,Chennai,Premium,2024-10-08
+647,Pune,Gen Z,2024-03-17
+648,Pune,Premium,2025-01-07
+649,Chennai,Millennials,2024-02-01
+650,Delhi,Casual,2025-03-24
+651,Mumbai,Millennials,2024-03-09
+652,Delhi,Families,2025-01-05
+653,Hyderabad,Casual,2024-02-03
+654,Chennai,Millennials,2025-04-05
+655,Bengaluru,Families,2025-03-30
+656,Kolkata,Gen Z,2024-05-20
+657,Chennai,Families,2025-02-11
+658,Bengaluru,Families,2024-09-12
+659,Mumbai,Gen Z,2024-07-09
+660,Hyderabad,Casual,2025-01-31
+661,Chennai,Gen Z,2024-09-25
+662,Kolkata,Families,2025-04-01
+663,Delhi,Casual,2024-10-19
+664,Pune,Premium,2024-07-23
+665,Mumbai,Millennials,2024-03-16
+666,Hyderabad,Millennials,2025-03-31
+667,Mumbai,Families,2024-12-21
+668,Pune,Gen Z,2025-07-09
+669,Bengaluru,Families,2024-06-10
+670,Pune,Millennials,2025-01-05
+671,Chennai,Millennials,2024-05-04
+672,Delhi,Millennials,2024-08-30
+673,Kolkata,Premium,2024-01-27
+674,Bengaluru,Casual,2025-01-12
+675,Hyderabad,Casual,2024-05-12
+676,Chennai,Gen Z,2024-03-08
+677,Bengaluru,Premium,2025-05-05
+678,Chennai,Premium,2025-02-23
+679,Kolkata,Casual,2024-03-16
+680,Delhi,Families,2024-03-16
+681,Hyderabad,Premium,2025-06-13
+682,Bengaluru,Millennials,2024-07-05
+683,Kolkata,Millennials,2025-03-19
+684,Chennai,Gen Z,2024-05-07
+685,Chennai,Millennials,2024-11-07
+686,Delhi,Millennials,2024-11-26
+687,Pune,Millennials,2024-12-20
+688,Chennai,Families,2024-03-21
+689,Bengaluru,Millennials,2024-10-08
+690,Delhi,Families,2025-06-30
+691,Mumbai,Casual,2024-06-21
+692,Chennai,Casual,2024-06-06
+693,Delhi,Casual,2024-12-11
+694,Kolkata,Casual,2024-02-12
+695,Kolkata,Gen Z,2024-03-24
+696,Mumbai,Casual,2024-09-28
+697,Pune,Millennials,2025-03-02
+698,Chennai,Gen Z,2025-05-24
+699,Pune,Casual,2024-10-23
+700,Pune,Families,2025-05-09
+701,Delhi,Premium,2024-10-31
+702,Hyderabad,Gen Z,2024-03-02
+703,Delhi,Premium,2025-03-01
+704,Hyderabad,Premium,2024-07-27
+705,Bengaluru,Casual,2024-05-27
+706,Bengaluru,Families,2024-12-19
+707,Hyderabad,Millennials,2025-01-14
+708,Chennai,Casual,2024-04-18
+709,Bengaluru,Millennials,2025-04-22
+710,Mumbai,Families,2025-04-05
+711,Delhi,Millennials,2024-04-09
+712,Mumbai,Families,2025-01-28
+713,Kolkata,Casual,2025-03-04
+714,Delhi,Millennials,2024-12-01
+715,Chennai,Families,2024-07-13
+716,Kolkata,Millennials,2025-05-25
+717,Chennai,Premium,2025-05-25
+718,Bengaluru,Premium,2024-01-24
+719,Mumbai,Premium,2025-06-01
+720,Hyderabad,Millennials,2024-08-08
+721,Chennai,Families,2024-02-19
+722,Mumbai,Families,2025-05-21
+723,Chennai,Premium,2024-10-19
+724,Chennai,Gen Z,2024-04-20
+725,Hyderabad,Millennials,2024-09-27
+726,Pune,Families,2025-02-16
+727,Bengaluru,Gen Z,2025-02-14
+728,Mumbai,Casual,2024-07-18
+729,Bengaluru,Casual,2024-10-22
+730,Mumbai,Premium,2025-05-31
+731,Hyderabad,Casual,2024-10-13
+732,Kolkata,Casual,2024-05-01
+733,Delhi,Gen Z,2025-02-07
+734,Bengaluru,Families,2025-01-09
+735,Kolkata,Millennials,2024-07-22
+736,Chennai,Casual,2025-02-15
+737,Chennai,Gen Z,2024-02-16
+738,Mumbai,Millennials,2024-12-07
+739,Kolkata,Premium,2025-06-15
+740,Hyderabad,Millennials,2025-06-11
+741,Delhi,Families,2024-11-22
+742,Delhi,Premium,2024-11-02
+743,Chennai,Families,2025-06-03
+744,Kolkata,Casual,2025-06-29
+745,Hyderabad,Casual,2024-11-02
+746,Hyderabad,Gen Z,2025-01-12
+747,Bengaluru,Gen Z,2025-03-02
+748,Chennai,Families,2024-01-28
+749,Chennai,Premium,2024-09-28
+750,Pune,Casual,2024-08-21
+751,Pune,Gen Z,2025-05-06
+752,Delhi,Casual,2025-01-24
+753,Delhi,Millennials,2024-02-02
+754,Chennai,Gen Z,2024-07-14
+755,Mumbai,Premium,2024-11-17
+756,Hyderabad,Millennials,2025-02-26
+757,Pune,Millennials,2025-02-24
+758,Chennai,Casual,2025-04-27
+759,Kolkata,Gen Z,2024-05-21
+760,Chennai,Millennials,2024-11-28
+761,Pune,Premium,2025-06-22
+762,Hyderabad,Families,2024-06-26
+763,Hyderabad,Casual,2024-12-16
+764,Chennai,Families,2024-09-27
+765,Chennai,Premium,2024-07-15
+766,Delhi,Families,2024-11-01
+767,Delhi,Families,2024-10-22
+768,Pune,Millennials,2025-05-15
+769,Bengaluru,Premium,2024-12-23
+770,Chennai,Families,2024-10-21
+771,Mumbai,Casual,2025-07-10
+772,Hyderabad,Premium,2024-12-19
+773,Kolkata,Millennials,2024-10-24
+774,Mumbai,Families,2024-03-21
+775,Bengaluru,Premium,2024-09-19
+776,Pune,Premium,2024-08-07
+777,Delhi,Casual,2024-10-04
+778,Chennai,Families,2024-05-20
+779,Mumbai,Casual,2024-09-02
+780,Delhi,Gen Z,2025-06-27
+781,Delhi,Millennials,2024-02-23
+782,Mumbai,Premium,2024-12-04
+783,Pune,Premium,2024-04-12
+784,Pune,Millennials,2024-01-06
+785,Chennai,Millennials,2025-02-20
+786,Pune,Premium,2025-05-03
+787,Pune,Millennials,2024-10-21
+788,Bengaluru,Families,2024-03-01
+789,Kolkata,Gen Z,2024-08-25
+790,Chennai,Gen Z,2024-06-28
+791,Hyderabad,Millennials,2024-02-07
+792,Kolkata,Premium,2025-05-22
+793,Delhi,Families,2024-02-08
+794,Mumbai,Families,2024-04-19
+795,Bengaluru,Families,2025-04-10
+796,Pune,Casual,2025-06-20
+797,Hyderabad,Millennials,2025-05-31
+798,Hyderabad,Families,2024-07-16
+799,Kolkata,Gen Z,2024-12-04
+800,Delhi,Premium,2024-09-20
+801,Pune,Millennials,2024-01-15
+802,Pune,Families,2024-10-29
+803,Chennai,Millennials,2024-06-28
+804,Chennai,Premium,2025-03-13
+805,Chennai,Families,2024-03-29
+806,Hyderabad,Gen Z,2024-07-08
+807,Delhi,Premium,2024-11-27
+808,Delhi,Gen Z,2024-09-24
+809,Hyderabad,Millennials,2025-04-02
+810,Kolkata,Families,2024-12-03
+811,Bengaluru,Casual,2024-01-12
+812,Bengaluru,Families,2024-08-29
+813,Mumbai,Gen Z,2025-04-21
+814,Bengaluru,Millennials,2025-02-19
+815,Pune,Casual,2024-11-14
+816,Pune,Gen Z,2024-10-29
+817,Bengaluru,Casual,2024-08-14
+818,Delhi,Millennials,2025-05-04
+819,Delhi,Premium,2025-01-17
+820,Hyderabad,Casual,2025-04-27
+821,Kolkata,Casual,2024-08-11
+822,Kolkata,Millennials,2024-03-24
+823,Chennai,Premium,2025-06-24
+824,Pune,Families,2024-03-20
+825,Chennai,Gen Z,2024-03-04
+826,Kolkata,Casual,2025-06-01
+827,Delhi,Casual,2025-07-03
+828,Delhi,Millennials,2024-12-01
+829,Kolkata,Casual,2025-03-28
+830,Mumbai,Millennials,2025-05-15
+831,Mumbai,Casual,2025-04-01
+832,Kolkata,Gen Z,2025-04-09
+833,Delhi,Casual,2025-03-01
+834,Hyderabad,Casual,2024-02-29
+835,Chennai,Premium,2024-11-11
+836,Pune,Gen Z,2025-02-09
+837,Bengaluru,Gen Z,2024-08-11
+838,Chennai,Gen Z,2024-02-16
+839,Hyderabad,Families,2024-03-06
+840,Chennai,Gen Z,2024-03-11
+841,Hyderabad,Gen Z,2024-10-20
+842,Hyderabad,Millennials,2024-05-18
+843,Kolkata,Premium,2025-01-18
+844,Hyderabad,Premium,2025-01-21
+845,Hyderabad,Gen Z,2025-07-06
+846,Delhi,Families,2024-05-01
+847,Delhi,Casual,2025-02-06
+848,Chennai,Millennials,2024-08-16
+849,Kolkata,Gen Z,2024-01-24
+850,Bengaluru,Premium,2025-07-11
+851,Hyderabad,Casual,2025-01-23
+852,Kolkata,Millennials,2024-09-10
+853,Hyderabad,Families,2024-06-07
+854,Bengaluru,Millennials,2024-04-25
+855,Mumbai,Premium,2024-01-17
+856,Delhi,Millennials,2024-03-09
+857,Mumbai,Casual,2024-02-04
+858,Hyderabad,Casual,2024-02-19
+859,Delhi,Gen Z,2025-02-15
+860,Hyderabad,Millennials,2025-07-06
+861,Delhi,Gen Z,2024-05-23
+862,Chennai,Families,2024-08-27
+863,Kolkata,Casual,2024-11-22
+864,Chennai,Casual,2024-11-24
+865,Delhi,Families,2024-05-26
+866,Pune,Casual,2024-08-14
+867,Hyderabad,Families,2024-10-08
+868,Mumbai,Casual,2024-06-28
+869,Pune,Premium,2025-05-22
+870,Mumbai,Families,2025-01-25
+871,Kolkata,Casual,2024-11-22
+872,Pune,Premium,2025-02-22
+873,Delhi,Families,2025-01-20
+874,Delhi,Casual,2025-04-29
+875,Delhi,Millennials,2024-11-03
+876,Kolkata,Millennials,2025-04-19
+877,Mumbai,Casual,2025-02-26
+878,Hyderabad,Casual,2025-06-26
+879,Delhi,Premium,2024-09-05
+880,Bengaluru,Millennials,2024-12-04
+881,Pune,Gen Z,2025-04-05
+882,Kolkata,Families,2024-04-04
+883,Chennai,Millennials,2024-02-22
+884,Bengaluru,Premium,2024-02-10
+885,Kolkata,Gen Z,2024-07-11
+886,Kolkata,Casual,2024-08-10
+887,Hyderabad,Millennials,2024-12-06
+888,Bengaluru,Gen Z,2024-08-04
+889,Delhi,Gen Z,2025-05-05
+890,Delhi,Casual,2024-07-28
+891,Hyderabad,Millennials,2024-11-25
+892,Kolkata,Families,2025-01-24
+893,Hyderabad,Casual,2025-01-02
+894,Bengaluru,Families,2025-01-03
+895,Chennai,Premium,2025-04-22
+896,Mumbai,Premium,2024-11-23
+897,Delhi,Families,2024-11-16
+898,Hyderabad,Gen Z,2024-08-14
+899,Pune,Millennials,2024-01-17
+900,Bengaluru,Casual,2025-03-03
