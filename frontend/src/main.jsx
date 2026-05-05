@@ -22,8 +22,30 @@ function App(){
   const [chart,setChart]=useState([]);
   const [cities,setCities]=useState([]);
   const [loading,setLoading]=useState(false);
+  const [backendReady, setBackendReady] = useState(false);
 
-  useEffect(()=>{topTitles().then(setChart).catch(console.error); cityEngagement().then(setCities).catch(console.error);},[]);
+  useEffect(() => {
+  async function init() {
+    try {
+      const [titles, cityData] = await Promise.all([
+        topTitles(),
+        cityEngagement()
+      ]);
+
+      setChart(titles);
+      setCities(cityData);
+
+      setBackendReady(true); // ✅ backend responded → hide overlay
+    } catch (err) {
+      console.error(err);
+
+      // retry every 2s until backend wakes
+      setTimeout(init, 2000);
+    }
+  }
+
+  init();
+}, []);
   async function submit(q=question){
     if(!q.trim()) return;
     setLoading(true); setMessages(m=>[...m,{role:'user',content:q}]);
@@ -32,6 +54,14 @@ function App(){
     finally{setLoading(false);}
   }
   return <div className="app">
+  {!backendReady && (
+  <div className="overlay">
+    <div className="overlay-box">
+      <div className="spinner"></div>
+      <p>Waking up server...</p>
+    </div>
+  </div>
+)}
     <aside className="sidebar">
       <h1>Secure AI Insights</h1>
       <p className="muted">Multi-source analytics assistant with tool-based access, role checks, SQL safety, and PDF retrieval.</p>
@@ -54,7 +84,7 @@ function App(){
     </ReactMarkdown>
   ) : (
     <p>{m.content}</p>
-  )}{m.sources&&<small>Sources: SQL queries {m.sources.sql_queries?.join(', ')}; PDFs {m.sources.documents?.map(d=>d.source).join(', ')}</small>}</div>)}{loading&&<p className="muted">Thinking with approved tools...</p>}</div>
+  )}{m.sources&&<small>Sources: SQL queries {m.sources.sql_queries?.join(', ')}; PDFs {m.sources.documents?.map(d=>d.source).join(', ')}</small>}</div>)}{loading&&<p className="muted">Thinking...</p>}</div>
         <div className="composer"><input value={question} onChange={e=>setQuestion(e.target.value)} onKeyDown={e=>{if(e.key==='Enter')submit()}}/><button onClick={()=>submit()}><Send size={16}/> Ask</button></div>
       </section>
     </main>
