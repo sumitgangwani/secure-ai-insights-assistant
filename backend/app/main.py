@@ -20,3 +20,6 @@ app.include_router(router, prefix="/api")
 @app.on_event("startup")
 def startup():
     init()
+@app.get("/health")
+def health():
+    return {"status": "ok"}
