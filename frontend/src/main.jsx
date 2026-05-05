@@ -4,7 +4,8 @@ import {BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid
 import {Send, ShieldCheck, Database, FileText} from 'lucide-react';
 import {ask, topTitles, cityEngagement} from './api/client';
 import './styles.css';
-
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 const examples = [
   'Which titles performed best in 2025?',
   'Why is Stellar Run trending recently?',
@@ -34,7 +35,7 @@ function App(){
     <aside className="sidebar">
       <h1>Secure AI Insights</h1>
       <p className="muted">Multi-source analytics assistant with tool-based access, role checks, SQL safety, and PDF retrieval.</p>
-      <div className="badge"><ShieldCheck size={16}/> leadership role</div>
+{/*       <div className="badge"><ShieldCheck size={16}/> leadership role</div> */}
       <h3>Example questions</h3>
       {examples.map(e=><button className="example" key={e} onClick={()=>{setQuestion(e); submit(e)}}>{e}</button>)}
     </aside>
@@ -44,7 +45,16 @@ function App(){
         <div className="card"><h2>City Engagement</h2>{cities.slice(0,5).map(c=><div className="row" key={c.city}><span>{c.city}</span><b>{c.avg_engagement}</b></div>)}</div>
       </section>
       <section className="chat card">
-        <div className="messages">{messages.map((m,i)=><div key={i} className={`msg ${m.role}`}><b>{m.role==='user'?'You':'Assistant'}</b><p>{m.content}</p>{m.sources&&<small>Sources: SQL queries {m.sources.sql_queries?.join(', ')}; PDFs {m.sources.documents?.map(d=>d.source).join(', ')}</small>}</div>)}{loading&&<p className="muted">Thinking with approved tools...</p>}</div>
+        <div className="messages">{messages.map((m,i)=><div key={i} className={`msg ${m.role}`}>
+  <b>{m.role==='user'?'You':'Assistant'}</b>
+
+  {m.role === 'assistant' ? (
+    <ReactMarkdown remarkPlugins={[remarkGfm]}>
+      {m.content}
+    </ReactMarkdown>
+  ) : (
+    <p>{m.content}</p>
+  )}{m.sources&&<small>Sources: SQL queries {m.sources.sql_queries?.join(', ')}; PDFs {m.sources.documents?.map(d=>d.source).join(', ')}</small>}</div>)}{loading&&<p className="muted">Thinking with approved tools...</p>}</div>
         <div className="composer"><input value={question} onChange={e=>setQuestion(e.target.value)} onKeyDown={e=>{if(e.key==='Enter')submit()}}/><button onClick={()=>submit()}><Send size={16}/> Ask</button></div>
       </section>
     </main>

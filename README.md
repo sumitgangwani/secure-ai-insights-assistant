@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Secure AI Insights Assistant
 
 A runnable full-stack prototype for the Futures First Quantitative Engineer assignment. It answers business questions using a SQLite database populated from CSV data, PDF retrieval over internal reports, and an optional OpenAI-backed AI layer. Without an API key, it still runs with a deterministic fallback answer generator.
@@ -106,3 +107,6 @@ Backend docs: `http://localhost:8000/docs`
 - `GET /api/analytics/city-engagement`
 - `GET /api/documents/search?q=Stellar Run trending`
 - `POST /api/sql/read-only` with `{ "sql": "SELECT * FROM movies" }`
+=======
+# secure-ai-insights-assistant
+>>>>>>> 792dd8e6937eccb595b6146d1d30a0986c642762
